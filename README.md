@@ -1,6 +1,3 @@
-# object_security_system
-Sistem keamanan objek berbasis visi komputer yang menggunakan model YOLOv8 untuk memantau dan mendeteksi perubahan pada objek-objek di suatu area. Dilengkapi dengan fitur logging, alarm suara, dan akses terproteksi
-
 # Object Security System
 
 Sistem keamanan objek berbasis visi komputer yang memantau perubahan pada objek-objek di area tertentu menggunakan model deteksi objek YOLOv8. Jika terjadi perubahan yang tidak diotorisasi, sistem akan memicu alarm dan mencatat kejadian tersebut.
